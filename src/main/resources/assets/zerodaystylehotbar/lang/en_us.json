@@ -1,0 +1,37 @@
+{
+  "text.autoconfig.zerodaystylehotbar.title": "Zeroday Style Hotbar",
+
+  "text.autoconfig.zerodaystylehotbar.option.status": "Status",
+
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip": "Detailed Tooltip",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.status": "Status",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor": "Armor",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor.both": "Both",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor.max-damage-reduction": "Max Damage Reduction",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor.min-damage-reduction": "Min Damage Reduction",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor.disable": "Disable",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.sword": "Sword",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.sword.attack-damage": "Attack Damage",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.sword.disable": "Disable",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.tool": "Tool",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.tool.mining-efficiency": "Mining Efficiency",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.tool.disable": "Disable",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food": "Food",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food.both": "Both",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food.food-level": "Food Level",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food.saturation": "Saturation",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food.disable": "Disable",
+
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar": "Detailed Status Bar",
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar.status": "Status",
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar.showDetailedExperience": "Show Detailed Experience",
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar.showSaturation": "Show Saturation",
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar.showTotalHealth": "Show Total Health",
+
+  "text.zerodaystylehotbar.detailedTooltip.max-damage-reduction": "Max Damage Reduction",
+  "text.zerodaystylehotbar.detailedTooltip.min-damage-reduction": "Min Damage Reduction",
+  "text.zerodaystylehotbar.detailedTooltip.attack-damage": "Attack Damage",
+  "text.zerodaystylehotbar.detailedTooltip.mining-efficiency": "Mining Efficiency",
+  "text.zerodaystylehotbar.detailedTooltip.saturation": "Saturation",
+  "text.zerodaystylehotbar.detailedTooltip.nutrition": "Food Level"
+}

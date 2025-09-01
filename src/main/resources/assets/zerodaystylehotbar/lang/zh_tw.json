@@ -1,0 +1,37 @@
+{
+  "text.autoconfig.zerodaystylehotbar.title": "Zeroday 風格快捷欄",
+
+  "text.autoconfig.zerodaystylehotbar.option.status": "狀態",
+
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip": "詳細提示",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.status": "狀態",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor": "護甲",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor.both": "兩者",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor.max-damage-reduction": "最大傷害減免",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor.min-damage-reduction": "最小傷害減免",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.armor.disable": "停用",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.sword": "劍",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.sword.attack-damage": "攻擊傷害",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.sword.disable": "停用",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.tool": "工具",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.tool.mining-efficiency": "挖掘效率",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.tool.disable": "停用",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food": "食物",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food.both": "兩者",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food.food-level": "飢餓值",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food.saturation": "飽食度",
+  "text.autoconfig.zerodaystylehotbar.option.detailedTooltip.food.disable": "停用",
+
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar": "詳細狀態欄",
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar.status": "狀態",
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar.showDetailedExperience": "顯示詳細經驗值",
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar.showSaturation": "顯示飽食度",
+  "text.autoconfig.zerodaystylehotbar.option.detailedStatusBar.showTotalHealth": "顯示總血量",
+
+  "text.zerodaystylehotbar.detailedTooltip.max-damage-reduction": "最大傷害減免",
+  "text.zerodaystylehotbar.detailedTooltip.min-damage-reduction": "最小傷害減免",
+  "text.zerodaystylehotbar.detailedTooltip.attack-damage": "攻擊傷害",
+  "text.zerodaystylehotbar.detailedTooltip.mining-efficiency": "挖掘效率",
+  "text.zerodaystylehotbar.detailedTooltip.saturation": "飽食度",
+  "text.zerodaystylehotbar.detailedTooltip.nutrition": "飢餓值"
+}
